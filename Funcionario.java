@@ -4,10 +4,6 @@ public class Funcionario {
     private String nome;
     private double salarioBruto;
     private boolean areaDeRisco;
-
-
-
-    
     private int tipoPesquisador;
 
     public Funcionario(String matricula, String nome, double salarioBruto, boolean areaDeRisco, int tipoPesquisador) {
